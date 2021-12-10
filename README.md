@@ -1,2 +1,0 @@
-# QazoNamozlar
-QazoNomozlarni hisoblaydigan dastur
